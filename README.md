@@ -32,6 +32,7 @@ The following EXTRA features are implemented:
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
+
 ![week7](https://user-images.githubusercontent.com/17263335/231599271-60d5479b-eea6-424f-8622-5ba2f780e5b1.gif)
 
 GIF created with ScreenToGif
